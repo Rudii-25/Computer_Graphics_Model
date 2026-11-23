@@ -2,7 +2,7 @@
 
 A 3D helicopter built in **C with OpenGL/GLUT**, demonstrating geometric transformations on a hierarchical model.
 
-**Author:** Rudii
+**Author:** Rudra Sharma
 **Subject:** Computer Graphics – college project
 
 ## Features
